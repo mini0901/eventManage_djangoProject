@@ -1,0 +1,1 @@
+# eventManage_djangoProject
